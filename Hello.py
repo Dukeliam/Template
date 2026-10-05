@@ -1,0 +1,13 @@
+print("Hello World")
+print("Williams")
+print(25)
+print(7 + 3)
+print("Hello\nWorld")
+print("'Python' is fun!")
+print("I\twill\teat")
+print("I am learning Python")
+print("*****")
+print("*****")
+print("*****")
+print("Coding is fun!")
+
