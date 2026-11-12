@@ -21,7 +21,21 @@ public class StringReverse{
              }
                         reverse = reverse + word.charAt(index);
        }
-                  System.out.println(reverse);
-                  System.out.println(count);
+                  System.out.println("Reverse: " + reverse);
+                  System.out.println("Number of vowel: " + count);
+
+
+            for(int counts = 0; counts < word.length(); counts++){
+                  for(int index = counts + 1; index < word.length(); index++){
+                        if(word.charAt(counts) == word.charAt(index)){
+                              count++;
+                               System.out.println(word.charAt(counts));
+                  }
+            }
+      }
+
+            for(){
+            
+            }
     }
 }
